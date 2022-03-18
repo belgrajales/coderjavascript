@@ -1,0 +1,17 @@
+var reviews = [
+    {
+        "image" : "img/rev1.jpg",
+        "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad accusantium voluptate officia totam obcaecati ducimus",
+        "name" : "Nombre 1",
+    },
+    {
+        "image" : "img/rev2.jpg",
+        "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad accusantium voluptate officia totam obcaecati ducimus",
+        "name" : "Nombre 2",
+    },
+    {
+        "image" : "img/rev3.jpg",
+        "content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad accusantium voluptate officia totam obcaecati ducimus",
+        "name" : "Nombre 3",
+    },
+]
